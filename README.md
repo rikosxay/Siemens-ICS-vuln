@@ -1,4 +1,4 @@
-<h1> Vulnerability Testing Siemens ICS devices and manipulation core processes using pentesting tools</h1>
+<h1> Vulnerability Testing Siemens ICS devices and manipulating core processes using pentesting tools</h1>
 
 <h2>Description</h2>
 In this project I had the opportunity to attend an event at the University of Bristol where we were given our own ICS training box which we learnt to vulnerability test and eventually manipulate the processes it was carrying out. <br>
